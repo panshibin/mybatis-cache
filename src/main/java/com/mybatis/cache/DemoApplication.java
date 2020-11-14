@@ -1,4 +1,4 @@
-package com.mybatis.cache.demo;
+package com.mybatis.cache;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
